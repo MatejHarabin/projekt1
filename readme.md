@@ -1,1 +1,1 @@
-ahoj
+vylepsenie cislo 1 
