@@ -1,0 +1,1 @@
+vylepsenie cislo 1 
