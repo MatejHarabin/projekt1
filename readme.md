@@ -1,1 +1,4 @@
-moja prva feature branche
+
+vylepsenie cislo 1 
+
+
